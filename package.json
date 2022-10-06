@@ -1,7 +1,7 @@
 {
   "name": "tattoo-website",
   "version": "0.1.0",
-  "homepage": "https://Loisarn.github.io/tattoo-website",
+  "homepage": "https://Loisarn.github.io/kbtattoo",
   "private": true,
   "dependencies": {
     "antd": "^4.23.4",
