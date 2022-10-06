@@ -53,13 +53,13 @@ img {
     text-align: center;
     font-variant: small-caps;
     margin: 10px;
-    font-size: 4vw;
+    font-size: 3vw;
 }
 
 .text {
     text-align: center;
     margin: 10px;
-    font-size: 2.5vw;
+    font-size: 2vw;
 }
 
 /* LOGO */
@@ -73,7 +73,7 @@ img {
 .aftercare {
     text-align: center;
     margin: 20px;
-    font-size: 6vw;
+    font-size: 4vw;
     font-weight: bold;
 }
 
@@ -97,5 +97,5 @@ img {
 }
 
 .contact {
-    font-size: 5vw;
+    font-size: 4vw;
 }
