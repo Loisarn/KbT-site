@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kbtSite/static/css/main.ef105082.css",
+    "main.css": "/kbtSite/static/css/main.815f5d50.css",
     "main.js": "/kbtSite/static/js/main.9ce45f69.js",
     "static/media/image2.JPG": "/kbtSite/static/media/image2.9520bc5f5f8af1a5d95a.JPG",
     "static/media/image6.JPG": "/kbtSite/static/media/image6.23ab5be81810896462e0.JPG",
@@ -10,11 +10,11 @@
     "static/media/image3.JPG": "/kbtSite/static/media/image3.6b13165db00ee53b0159.JPG",
     "static/media/image5.JPG": "/kbtSite/static/media/image5.f92ed4789f3d009020ed.JPG",
     "index.html": "/kbtSite/index.html",
-    "main.ef105082.css.map": "/kbtSite/static/css/main.ef105082.css.map",
+    "main.815f5d50.css.map": "/kbtSite/static/css/main.815f5d50.css.map",
     "main.9ce45f69.js.map": "/kbtSite/static/js/main.9ce45f69.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef105082.css",
+    "static/css/main.815f5d50.css",
     "static/js/main.9ce45f69.js"
   ]
 }
