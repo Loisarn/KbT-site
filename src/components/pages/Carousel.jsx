@@ -3,7 +3,7 @@ import Carousel from "react-bootstrap/Carousel";
 
 function CarouselPage() {
   return (
-    <Carousel fade variant="dark">
+    <Carousel fade variant="dark" responsive="true">
       <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
