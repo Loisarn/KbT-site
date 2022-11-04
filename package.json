@@ -1,7 +1,7 @@
 {
   "name": "tattoo-website",
   "version": "0.1.0",
-  "homepage": "https://Loisarn.github.io/kbtsite",
+  "homepage": "https://Loisarn.github.io",
   "private": true,
   "dependencies": {
     "antd": "^4.23.4",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
